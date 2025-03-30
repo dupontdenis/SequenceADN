@@ -1,0 +1,33 @@
+/* Highlight styles */
+.highlight-orange {
+  color: orange;
+}
+
+.highlight-red {
+  color: red;
+}
+
+.highlight-green {
+
+  color: green;
+}
+
+
+
+.highlight-blue {
+  text-decoration: overline;
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+body {
+  padding: 20px;
+
+}
