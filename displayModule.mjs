@@ -54,7 +54,8 @@ export const DisplayModule = {
         : ["highlight-red", "underline"]; // Current incorrect character
     }
      if (!isSequenceFound && i > sequence1Index && i < sequence1Index + sequence2Index ) {
-      return ["highlight-green", "overline"]
+      // return ["highlight-green", "overline"]
+      return ["highlight-green", "underline"]
      }
 
     return []; // Default black for other characters
